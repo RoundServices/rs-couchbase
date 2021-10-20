@@ -14,7 +14,7 @@ setup(
     author='Round Services',
     author_email='ggallard@roundservices.biz',
     license='MIT License',
-    install_requires=['couchbase', 'rs-utils'],
+    install_requires=['testresources', 'couchbase', 'rs-utils'],
     packages=['rs.couchbase'],
     zip_safe=False,
     python_requires='>=3.0'
