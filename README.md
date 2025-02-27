@@ -1,12 +1,3 @@
 # rs-couchbase
 
-## Pre-requisites
-
-- Python > 3.x
-- [rs-utils](https://github.com/RoundServices/rs-utils)
-
-## Deploy
-
-```sh
-python3 -m pip install --upgrade --force-reinstall git+https://github.com/RoundServices/rs-couchbase.git@main
-```
+This module is DEPRECATED. Code was migrated to https://github.com/identicum/sherpa-py-couchbase/
